@@ -1,0 +1,2 @@
+2026-06-10 12:20:52,604 - INFO - Limit Order Request | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=50000.0
+2026-06-10 12:20:53,429 - INFO - Limit Order Response | OrderId=14623365441 Status=NEW ExecutedQty=0.0000

@@ -1,0 +1,2 @@
+026-06-10 12:20:40,572 - INFO - Market Order Request | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-06-10 12:20:41,090 - INFO - Market Order Response | OrderId=14623353320 Status=NEW ExecutedQty=0.0000

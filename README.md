@@ -130,6 +130,11 @@ All dependencies are listed in requirements.txt.
 > Note: This project uses Binance Futures Testnet and does not place real-money trades.
 
 
+## Sample Logs
+
+Example MARKET and LIMIT order logs are available in the sample_logs folder.
+
+
 ## Assumptions
 
 - User has Binance Futures Testnet account.
